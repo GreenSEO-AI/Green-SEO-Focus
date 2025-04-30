@@ -22,7 +22,7 @@ Green SEO Focus est une application de productivité développée pour aider les
 
 L'application est disponible sous forme d'exécutable Windows autonome. Aucune installation complexe n'est nécessaire.
 
-1. Téléchargez le fichier `.exe` depuis la page des [releases](https://github.com/username/Green-SEO-Focus/releases)
+1. Téléchargez le fichier `.exe` depuis la page des [releases](https://drive.google.com/file/d/1f73ZAEt0DB6djnrPi8W9FYFIVnVfW_26/view?usp=sharing)
 2. Exécutez l'application (l'icône reconnaissable avec l'œil vert apparaîtra)
 3. Commencez immédiatement à suivre vos tâches et améliorer votre productivité
 
