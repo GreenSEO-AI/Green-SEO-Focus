@@ -39,7 +39,7 @@ L'application est disponible sous forme d'exécutable Windows autonome. Aucune i
 ## 📊 Analyses et rapports
 
 <p align="center">
-  <img src="https://github.com/username/Green-SEO-Focus/raw/main/example_analytics.png" alt="Exemple d'analytics" width="600"/>
+  <img src="https://github.com/GreenSEO-AI/Green-SEO-Focus/blob/main/Capture%20d'%C3%A9cran%202025-04-30%20192803.png?raw=true" alt="Exemple d'analytics" width="600"/>
 </p>
 
 L'application génère quatre types de visualisations pour vous aider à comprendre vos habitudes de travail :
