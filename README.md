@@ -1,7 +1,7 @@
 # Green SEO Focus
 
 <p align="center">
-  <img src="android-chrome-512x512.png" alt="Green SEO Focus Logo" width="150"/>
+  <img src="https://raw.githubusercontent.com/GreenSEO-AI/Green-SEO-Focus/refs/heads/main/favicon.ico" alt="Green SEO Focus Logo" width="150"/>
 </p>
 
 ## 🌿 Description
